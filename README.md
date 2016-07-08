@@ -8,6 +8,8 @@ a game about block breaker by SDL/C++
 
 注意：只支持1080P分辨率,而且背景音乐使用了wav，导致体积比较大，事实上这个SDL是可以用ogg音乐的。
 
+更好的SDL例子，请参照[The Story](https://github.com/FieldSoft-HelloClyde/TheStory)
+
 
 ![主界面](https://github.com/FieldSoft-HelloClyde/SDL-BlockBreaker/blob/master/snap/SDL%202016-07-08%2021-36-20-76.jpg?raw=true)
 
