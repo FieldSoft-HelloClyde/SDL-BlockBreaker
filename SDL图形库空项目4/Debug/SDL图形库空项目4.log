@@ -1,0 +1,38 @@
+﻿生成启动时间为 2013/12/13 15:08:08。
+     1>项目“E:\cpp subject\C语言练习\图形库\SDL图形库空项目4\SDL图形库空项目4\SDL图形库空项目4.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\SDL" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>e:\cpp subject\c语言练习\图形库\sdl图形库空项目4\sdl图形库空项目4\源.cpp(50): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 参见“sprintf”的声明
+     1>e:\cpp subject\c语言练习\图形库\sdl图形库空项目4\sdl图形库空项目4\源.cpp(58): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : 参见“fopen”的声明
+     1>e:\cpp subject\c语言练习\图形库\sdl图形库空项目4\sdl图形库空项目4\源.cpp(77): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : 参见“fopen”的声明
+     1>e:\cpp subject\c语言练习\图形库\sdl图形库空项目4\sdl图形库空项目4\源.cpp(392): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : 参见“strcpy”的声明
+     1>e:\cpp subject\c语言练习\图形库\sdl图形库空项目4\sdl图形库空项目4\源.cpp(393): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115) : 参见“strcat”的声明
+     1>e:\cpp subject\c语言练习\图形库\sdl图形库空项目4\sdl图形库空项目4\源.cpp(394): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115) : 参见“strcat”的声明
+     1>e:\cpp subject\c语言练习\图形库\sdl图形库空项目4\sdl图形库空项目4\源.cpp(561): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+     1>e:\cpp subject\c语言练习\图形库\sdl图形库空项目4\sdl图形库空项目4\源.cpp(619): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : 参见“strcpy”的声明
+     1>e:\cpp subject\c语言练习\图形库\sdl图形库空项目4\sdl图形库空项目4\源.cpp(620): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115) : 参见“strcat”的声明
+     1>e:\cpp subject\c语言练习\图形库\sdl图形库空项目4\sdl图形库空项目4\源.cpp(621): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115) : 参见“strcat”的声明
+     1>e:\cpp subject\c语言练习\图形库\sdl图形库空项目4\sdl图形库空项目4\源.cpp(731): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : 参见“strcpy”的声明
+     1>e:\cpp subject\c语言练习\图形库\sdl图形库空项目4\sdl图形库空项目4\源.cpp(732): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115) : 参见“strcat”的声明
+     1>e:\cpp subject\c语言练习\图形库\sdl图形库空项目4\sdl图形库空项目4\源.cpp(733): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115) : 参见“strcat”的声明
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\cpp subject\C语言练习\图形库\SDL图形库空项目4\Debug\SDL图形库空项目4.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\lib\SDL\x86" SDL2.lib SDL2main.lib SDL2_ttf.lib SDL2_image.lib SDL2_mixer.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\cpp subject\C语言练习\图形库\SDL图形库空项目4\Debug\SDL图形库空项目4.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\cpp subject\C语言练习\图形库\SDL图形库空项目4\Debug\SDL图形库空项目4.lib" /MACHINE:X86 "Debug\源.obj"
+         SDL图形库空项目4.vcxproj -> E:\cpp subject\C语言练习\图形库\SDL图形库空项目4\Debug\SDL图形库空项目4.exe
+     1>已完成生成项目“E:\cpp subject\C语言练习\图形库\SDL图形库空项目4\SDL图形库空项目4\SDL图形库空项目4.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.24
